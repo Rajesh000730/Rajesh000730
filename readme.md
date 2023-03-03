@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Rajesh J
+I am Rajesh J.
 I am currently pursuing Fourth year of my Instrumentation & Control Engineering in National Institute of technology Tiruchirapalli
 #
 
