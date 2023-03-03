@@ -22,7 +22,6 @@ I am currently pursuing Fourth year of my Instrumentation & Control Engineering 
     ![MongoDB](https://img.shields.io/badge/mongodb%20-%2320232a.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
     ![MySQL](https://img.shields.io/badge/mysql%20-%2300599C.svg?&style=for-the-badge&logo=mysql&logoColor=white)
     ![PostgreSQL](https://img.shields.io/badge/postgresql%20-%ffb400.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
-     ![Firebase](https://img.shields.io/badge/firebase%20-%2300599C.svg?&style=for-the-badge&logo=firebase&logoColor=white)
     `![Linux](https://img.shields.io/badge/linux%20-%231572B6.svg?&style=for-the-badge&logo=linux&logoColor=white)
     ![Git](https://img.shields.io/badge/git%20-%23E34F26.svg?&style=for-the-badge&logo=git&logoColor=white)
     ![VS Code](https://img.shields.io/badge/vscode%20-%23121011.svg?&style=for-the-badge&logo=vscode&logoColor=white)
