@@ -3,11 +3,8 @@ I am Rajesh J.
 I am currently pursuing Fourth year of my Instrumentation & Control Engineering in National Institute of technology Tiruchirapalli
 #
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&lines=A+Full+Stack+Developer;Coding+Enthusiast)](https://git.io/typing-svg)
- 
+****[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&lines=A+Full+Stack+Developer;Coding+Enthusiast)](https://git.io/typing-svg)****
 #
-
-
 
 ![C++](https://img.shields.io/badge/c++%20-%23777BB4.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
     ![Python](https://img.shields.io/badge/python%20-%23E34F26.svg?&style=for-the-badge&logo=python&ogoColor=white)
