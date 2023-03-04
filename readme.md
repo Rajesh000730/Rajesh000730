@@ -35,7 +35,7 @@ I am currently pursuing Fourth year of my Instrumentation & Control Engineering 
 #
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning ... GOLANG, Rust, JAVA
-- 👯 I’m looking to collaborate on Webdevelopment
+- 👯 I’m looking forward to collaborate on WebDevelopment
 <!-- - 🤔 I’m looking for help with -->
 
 
