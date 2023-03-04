@@ -25,9 +25,9 @@ I am currently pursuing Fourth year of my Instrumentation & Control Engineering 
   
 #
 
- **My ArchLinux Rise:**
+ **My ArchLinux Rice:**
 
-![My ArchLinux Rise](./2023-03-05-021931_1920x1080_scrot.png)
+![My ArchLinux Rice](./2023-03-05-021931_1920x1080_scrot.png)
 #
 ![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajesh000730&count_private=true&theme=radical)
 #
