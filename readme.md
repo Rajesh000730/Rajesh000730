@@ -27,7 +27,8 @@ I am currently pursuing Fourth year of my Instrumentation & Control Engineering 
     ![VS Code](https://img.shields.io/badge/vscode%20-%23121011.svg?&style=for-the-badge&logo=vscode&logoColor=white)
   
 #
-# **MyFirstRice:**
+
+ **My ArchLinux Rise:**
 
 ![My ArchLinux Rise](./2023-03-05-021931_1920x1080_scrot.png)
 #
