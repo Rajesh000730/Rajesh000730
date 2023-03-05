@@ -30,11 +30,7 @@ I am currently pursuing Fourth year of my Instrumentation & Control Engineering 
 ![My ArchLinux Rice](./2023-03-05-021931_1920x1080_scrot.png)
 #
 ![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajesh000730&count_private=true&theme=radical)
-#
-<!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning ... GOLANG, Rust, JAVA
-- 👯 I’m looking forward to collaborate on WebDevelopment
-<!-- - 🤔 I’m looking for help with -->
+
 
 
 #
