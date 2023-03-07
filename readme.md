@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am Rajesh J.
-I am currently pursuing Fourth year of my Instrumentation & Control Engineering in National Institute of technology Tiruchirapalli
+I am currently pursuing Fourth year of my B.Tech in Instrumentation & Control Engineering in National Institute of technology, Tiruchirapalli
 #
 
 ****[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&lines=A+Full+Stack+Developer;Coding+Enthusiast)](https://git.io/typing-svg)****
@@ -30,6 +30,7 @@ I am currently pursuing Fourth year of my Instrumentation & Control Engineering 
 ![My ArchLinux Rice](./2023-03-05-021931_1920x1080_scrot.png)
 #
 ![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajesh000730&count_private=true&theme=radical)
+#
 
 
 
