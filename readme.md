@@ -7,8 +7,8 @@ I am currently pursuing Fourth year of my B.Tech in Instrumentation & Control En
 #
 
 ![C++](https://img.shields.io/badge/c++%20-%23777BB4.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
-    ![Python](https://img.shields.io/badge/python%20-%23E34F26.svg?&style=for-the-badge&logo=python&ogoColor=white)
-    ![Javascript](https://img.shields.io/badge/javascript%20-%23121011.svg?&style=for-the-badge&logo=javascript&ogoColor=white)
+![Python](https://img.shields.io/badge/python%20-%23E34F26.svg?&style=for-the-badge&logo=python&ogoColor=white)
+![Javascript](https://img.shields.io/badge/javascript%20-%23121011.svg?&style=for-the-badge&logo=javascript&ogoColor=white)
     ![Typescript](https://img.shields.io/badge/typescript%20-%23150458.svg?&style=for-the-badge&logo=typescript&logoColor=white)
     ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
     ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
