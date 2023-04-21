@@ -35,4 +35,4 @@ I am currently pursuing Fourth year of my B.Tech in Instrumentation & Control En
 
 
 #
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajesh000730&layout=compact&theme=vue-dark&langs_count=7&hide=JupyterNotebook)](https://github.com/Rajesh000730/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajesh000730&layout=compact&theme=vue-dark&langs_count=8&hide=JupyterNotebook)](https://github.com/Rajesh000730/github-readme-stats)
