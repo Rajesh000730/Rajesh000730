@@ -15,7 +15,7 @@ I graduated as Instrumentation & Control Engineer from National Institute of tec
     ![ExpressJS](https://img.shields.io/badge/expressjs%20-%23FF6F00.svg?&style=for-the-badge&logo=express&logoColor=white)
     ![ReactJS](https://img.shields.io/badge/reactjs%20-%2300599C.svg?&style=for-the-badge&logo=react&logoColor=white)
     ![PostgreSQL](https://img.shields.io/badge/postgresql%20-%ffb400.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
-    `![Linux](https://img.shields.io/badge/linux%20-%231572B6.svg?&style=for-the-badge&logo=linux&logoColor=white)
+    ![Linux](https://img.shields.io/badge/linux%20-%231572B6.svg?&style=for-the-badge&logo=linux&logoColor=white)
     ![Git](https://img.shields.io/badge/git%20-%23E34F26.svg?&style=for-the-badge&logo=git&logoColor=white)
     ![VS Code](https://img.shields.io/badge/vscode%20-%23121011.svg?&style=for-the-badge&logo=vscode&logoColor=white)
   
