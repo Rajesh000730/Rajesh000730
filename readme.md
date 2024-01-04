@@ -26,9 +26,5 @@ I graduated as Instrumentation & Control Engineer from National Institute of tec
 ![My ArchLinux Rice](./2023-12-24_001732-.png)
 #
 ![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajesh000730&count_private=true&theme=radical)
-#
 
-
-
-#
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajesh000730&layout=compact&theme=vue-dark&langs_count=8&hide=jupyter%20notebook,procfile,css,HTML,EJS)](https://github.com/Rajesh000730/github-readme-stats)
